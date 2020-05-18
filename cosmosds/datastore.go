@@ -1,3 +1,5 @@
+// Code below are based on https://github.com/ipfs/go-ds-leveldb
+
 package cosmosds
 
 import (
